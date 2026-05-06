@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serogee)](https://github.com/serogee/github-readme-stats)
+<a href="https://github.com/serogee">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=serogee&show_icons=true" />
+</a>
+<a href="https://github.com/serogee">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serogee&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **serogee/serogee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
