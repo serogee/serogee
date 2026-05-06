@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee" />
+  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true&theme=transparent" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee&layout=compact&theme=transparent" />
 </a>
 
 
