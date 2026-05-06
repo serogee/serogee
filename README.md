@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true)
+[![GitHub stats](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee)](https://github.com/serogee)
 
-![Top Langs](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee&layout=compact)
+[![Top Langs](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee)](https://github.com/serogee)
+
 
 <!--
 **serogee/serogee** is a ✨ _special_ ✨ repository because its
