@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.shion.dev/api?username=serogee)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=serogee)](https://github.com/anuraghazra/github-readme-stats)
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true" />
+</a>
 
 
 <!--
