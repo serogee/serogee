@@ -1,8 +1,8 @@
 # ✨ Yahallowww! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&color=C44545&vCenter=true&width=435&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&color=C44545&vCenter=true&width=500&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.)](https://git.io/typing-svg)
 <!-- 
-https://readme-typing-svg.demolab.com/demo/?duration=1000&pause=2000&color=C44545&vCenter=true&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.
+https://readme-typing-svg.demolab.com/demo/?duration=1000&pause=2000&color=C44545&vCenter=true&width=500&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.
 -->
 
 ## ✦ About
