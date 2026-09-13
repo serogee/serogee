@@ -1,8 +1,8 @@
 # ✨ Yahallowww! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=1000&pause=2000&color=1597A8&vCenter=true&width=435&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&color=C44545&vCenter=true&width=435&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.)](https://git.io/typing-svg)
 <!-- 
-https://readme-typing-svg.demolab.com/demo/?font=&duration=1000&pause=2000&color=1597A8&vCenter=true&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually. 
+https://readme-typing-svg.demolab.com/demo/?duration=1000&pause=2000&color=C44545&vCenter=true&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.
 -->
 
 ## ✦ About
@@ -40,10 +40,7 @@ I like making things that make other things less annoying.
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
 
 ## ✦ My stats
-<a>
-  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true&theme=transparent" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee&layout=compact&theme=transparent" />
-</a>
+<!-- ![Stats](https://githubcard.com/serogee.svg?d=YOjhNjdw5CHU)-->
 
+![GitHub Stats](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true&include_all_commits=true&show=prs_merged_percentage&number_format=long&title_color=C44545&icon_color=B8952E&text_color=8C8178&border_color=C44545&bg_color=C4454512&ring_color=B8952E&border_radius=12) <br/>
+![Top Languages](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee&layout=compact&title_color=C44545&text_color=8C8178&border_color=C44545&bg_color=C4454512&langs_count=8)
