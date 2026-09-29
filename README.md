@@ -43,4 +43,4 @@ I like making things that make other things less annoying.
 <!-- ![Stats](https://githubcard.com/serogee.svg?d=YOjhNjdw5CHU)-->
 
 ![GitHub Stats](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api?username=serogee&show_icons=true&include_all_commits=true&show=prs_merged_percentage&number_format=long&title_color=C44545&icon_color=B8952E&text_color=8C8178&border_color=C44545&bg_color=C4454512&ring_color=B8952E&border_radius=12) <br/>
-<!-- ![Top Languages](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee&layout=compact&title_color=C44545&text_color=8C8178&border_color=C44545&bg_color=C4454512&langs_count=8)-->
+![Top Languages](https://github-readme-stats-9t42279k3-serogees-projects.vercel.app/api/top-langs/?username=serogee&layout=compact&title_color=C44545&text_color=8C8178&border_color=C44545&bg_color=C4454512&langs_count=8)
