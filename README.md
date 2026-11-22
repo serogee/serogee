@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&color=C44545&vCenter=true&width=500&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.)](https://git.io/typing-svg)
 
-<!--
-https://readme-typing-svg.demolab.com/demo/?duration=1000&pause=2000&color=C44545&vCenter=true&width=500&lines=niche+QoL+improvements.;making+things+unnecessarily+convenient.;a+collection+of+questionable+solutions.;doing+things+the+easy+way.+eventually.
--->
-
 ## ✦ About
 
 I like making things that make other things less annoying.
@@ -40,8 +36,6 @@ I like making things that make other things less annoying.
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
 
 ## ✦ My stats
-
-<!-- ![Stats](https://githubcard.com/serogee.svg?d=YOjhNjdw5CHU)-->
 
 ![GitHub Stats](https://github-readme-stats-olive-two-55.vercel.app/api?username=serogee&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&include_all_commits=true&show=prs_merged_percentage&number_format=long&title_color=C44545&icon_color=B8952E&text_color=8C8178&border_color=C44545&bg_color=C4454512&ring_color=B8952E&border_radius=12) <br/>
 
